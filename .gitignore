@@ -27,3 +27,6 @@ secrets/
 
 # local file
 package-lock.json
+
+# config
+app/config/enviroment.js
